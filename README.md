@@ -2,9 +2,9 @@
 
 First, full credit goes to [@leopalladium](https://github.com/leopalladium) and the original [FocalTech FT9366 Arch Shim](https://github.com/leopalladium/focaltech-ft9366-arch-shim) repository, which made this setup possible.
 
-This is simply my personal documentation of getting the fingerprint reader working on CachyOS, with the help of LLM-guided troubleshooting and configuration. I'm sharing my approach and experience so others can learn from it.
+This is simply my personal documentation of getting the fingerprint reader working on CachyOS, with the help of LLM-guided troubleshooting and configuration. I'm sharing my approach and experience in hope of it being useful for any person under similar conditions.
 
-I'm not the original developer of the driver or shim, and these instructions are not guaranteed to work on every system. Use your own judgement, review commands before running them, and always keep a password-based recovery option.
+I'm not the original developer of the driver or shim, and these instructions are not guaranteed to work on every system. Use your own judgement, review commands before running them, and always keep a password-based recovery option. The repo Documentation is made by AI so please take it with a grain of salt.
 
 
 # FocalTech FT9366 Fingerprint Reader on Arch Linux / CachyOS
